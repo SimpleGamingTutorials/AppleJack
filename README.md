@@ -14,4 +14,6 @@ http://snazzy.fm/applejack
 
 ### Youtube
 Follow: Snazzy Labs for more mac tips
-Follow me on: SimpleGameTutorials for more mac scripts that can be run without single user mode.
+
+### Follow me on:
+SimpleGameTutorials for more mac scripts that can be run without single user mode.
